@@ -1,8 +1,3 @@
-# Bike_Sales_Analysis_Excel
-
-
----
-
 # 🚲 Bike Sales Dashboard – Excel Project
 
 This repository presents a dynamic **Bike Sales Dashboard** built using Microsoft Excel. The dashboard visualizes customer demographics and behavioral data to analyze patterns in bike purchases.
